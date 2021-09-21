@@ -1,0 +1,10 @@
+Servo Connections to Motor Shield 
+Yellow -->            D9
+Red -->               5V
+Brown-->              GND
+
+Ultrasonic Sensor Connection to Motor Shield
+ENCO-->   D7
+TRIG-->   D8
+GND-->    GND
+5V-->     5V
