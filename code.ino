@@ -1,3 +1,5 @@
+//HCSR04 library has to be downloaded from manage libraries option in arduino ide and sownload hcsr04 by martin sosic library
+
 #include <HCSR04.h>
 #include <Servo.h>
 
